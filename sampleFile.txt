@@ -1,3 +1,6 @@
 ## This is a sample file to be manipulated by Git.
 
-##this is the second change made on the file after it was first committed.
+## this is the second change made on the file after it was first committed.
+
+
+## This is the third change made after the initial commit.
