@@ -1,1 +1,3 @@
 ## This is a sample file 2 to be manipulated by Git.
+
+## new change after committed to Git Hub.
