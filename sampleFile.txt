@@ -4,3 +4,7 @@
 
 
 ## This is the third change made after the initial commit.
+## This is the third change made after the initial commit.
+
+
+## Updated version for squash merging process.
